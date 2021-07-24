@@ -5,11 +5,11 @@
 ## Usage
 
 ``` bash
-# Install dependencies
+# After download you need:
 npm install
 
 # Preview on device
-tns preview
+tns preview --no-hm
 
 # Build, watch for changes and run the application
 tns run
